@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\Sport\Sport\bin\Debug\netcoreapp3.1\Sport.exe
+C:\Users\Пользователь\source\repos\Sport\Sport\bin\Debug\netcoreapp3.1\Sport.deps.json
+C:\Users\Пользователь\source\repos\Sport\Sport\bin\Debug\netcoreapp3.1\Sport.runtimeconfig.json
+C:\Users\Пользователь\source\repos\Sport\Sport\bin\Debug\netcoreapp3.1\Sport.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\Sport\Sport\bin\Debug\netcoreapp3.1\Sport.dll
+C:\Users\Пользователь\source\repos\Sport\Sport\bin\Debug\netcoreapp3.1\Sport.pdb
+C:\Users\Пользователь\source\repos\Sport\Sport\obj\Debug\netcoreapp3.1\Sport.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Sport\Sport\obj\Debug\netcoreapp3.1\Sport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\Sport\Sport\obj\Debug\netcoreapp3.1\Sport.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\Sport\Sport\obj\Debug\netcoreapp3.1\Sport.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\Sport\Sport\obj\Debug\netcoreapp3.1\Sport.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Sport\Sport\obj\Debug\netcoreapp3.1\Sport.dll
+C:\Users\Пользователь\source\repos\Sport\Sport\obj\Debug\netcoreapp3.1\Sport.pdb
+C:\Users\Пользователь\source\repos\Sport\Sport\obj\Debug\netcoreapp3.1\Sport.genruntimeconfig.cache
